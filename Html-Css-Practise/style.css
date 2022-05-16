@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.navbar{
+ height: 100px;
+ background-color: blue;
+}
+
+.logo-nav{
+    border: solid;
+    width: 200px;
+    position: relative;
+    top: 20px;
+}
+
+.vebinar{
+    display: flex;
+    border: solid;
+    width: 200px;
+    position: relative;
+    left: 800px;
+    bottom: 30px;
+    border-width: 0;
+}
+
+.live{
+    display: flex;
+    border: solid;
+    width: 200px;
+    position: relative;
+    left: 1000px;
+    bottom: 70px;
+    border-width: 0;
+}
+
+.mnews{
+    display: flex;
+    border: solid;
+    width: 200px;
+    position: relative;
+    left: 1250px;
+    bottom: 100px;
+    border-width: 0;
+}
+
+.nav-searcher{
+    border: solid;
+    border-width: 0;
+    width: 220px;
+    height: 40px;
+    position:relative;
+    left:1500px;
+    bottom:130px;
+    border-width: 0;
+    background-color: aliceblue;
+}
+
+.searching{
+    position: relative;
+    top: 10px;
+    left: 30px;
+   
+}
+
+.searching input{
+    border-width: 0;
+    height: 35px;
+    position: relative;
+    bottom: 8px;
+}
+
+.searching button{
+    border: solid;
+    border-width: 0;
+    position: relative;
+    right: 10px;
+    bottom: 8px;
+    width: 5px;
+    height: 5px;
+}
+
+.nav-menu ul{
+    list-style: none;
+
+}
+.nav-menu a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.logo-nav{
+    position: relative;
+    left: 200px;
+    list-style: none;
+    text-decoration: none;
+}
+
+.veb-icon{
+    position: relative;
+    top: 10px;
+}
+
+.live-icon{
+    position: relative;
+    top: 10px;
+}
+
+.mnews-icon{
+    position: relative;
+    top: 10px;
+}
+
+.logo-nav{
+    border-width: 0;
+}
+
+.logo-nav li{
+    list-style: none;
+
+}
+
+.daxilol{
+    border: solid;
+    width: 150px;
+    position: relative;
+    left: 1750px;
+    bottom: 160px;
+    border-width: 0;
+}
+
+.daxilol a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.daxilol li{
+    list-style: none;
+}
+
+
+
